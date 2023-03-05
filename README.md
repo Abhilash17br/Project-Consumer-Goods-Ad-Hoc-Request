@@ -1,10 +1,10 @@
 # Consumer-Goods-Ad-Hoc-Request
 
 ## Link to my Dashboard
-Novypro Dashboard - https://www.novypro.com/project/ad-hoc-request
+🔷Novypro Dashboard - https://www.novypro.com/project/ad-hoc-request
 
 
-Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=b4c286d7-2560-4626-b066-c8faee746d3f&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
+🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=b4c286d7-2560-4626-b066-c8faee746d3f&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
 
 ## Overview:
 *Project: Provide Insights to Management*
@@ -26,5 +26,20 @@ Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=b4c286d7-2560-4
 
  ## Task:
 
-🔷 Our Task is to run SQL queries to answer 10 ad-hoc requests for which the business needs insights.
-🔷 The target audience of this dashboard is top-level management, hence we need to create a presentation to show the insights.
+*Our Task is to run SQL queries to answer 10 ad-hoc requests for which the business needs insights.*
+
+*The target audience of this dashboard is top-level management, hence we need to create a presentation to show the insights.*
+
+## Tools Used:
+
+*MySQL: For SQL Queries*
+*Microsoft PowerPoint: For Presenting Insights*
+
+## Learnings from the Project:
+
+*Variuos SQL Concepts - GROUP BY,JOINS,CTE,WINDOW FUNCTIONS,PIVOT COUNT METHOD etc..*
+*Different Ways of Data Loading from Sql to POWER BI, - Data Loading for this Project Was done by connecting POWER BI to sql Database to Write Sql Queries, to load only required Data.*
+*Presenting Insights using Microsoft PowerPoint.*
+
+# Thank you.
+
