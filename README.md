@@ -8,5 +8,12 @@ Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=b4c286d7-2560-4
 
 ## Overview:
 *Project: Provide Insights to Management*
+
 *Domain: Consumer Goods*
+
 *Function: Executive Management*
+
+
+## Domain: Consumer Goods | Function: Executive Management
+
+*Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.*
